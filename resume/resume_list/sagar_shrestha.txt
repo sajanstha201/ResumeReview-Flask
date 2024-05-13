@@ -1,0 +1,54 @@
+Sagar Shrestha
+Kathmandu, Nepal • Tel: + 977 9841764339 • Email: sagarshrestha4339@gmail.com • LinkedIn: linkedin.com/in/sagar-shrestha-9a5646180 ____________________________________________________________________
+I am currently working as an Associate Software Engineer, specializing in Angular, ASP.NET Core, REST API, SQL, and TypeScript. I consistently demonstrate strong problem-solving skills, ensuring the efficient development and maintenance of software product. I possess the ability to grasp concepts swiftly, am industrious, and adept at contributing effectively within cross-functional teams.
+WORK EXPERIENCE
+Dec 2022 - Current Associate Software Engineer Verisk Kathmandu (Nepal)
+▪ Developed an internal tool utilizing Angular, TypeScript, C#, SQL, PostgreSQL, UI Component(PrimeNG), and REST API following the repository design pattern to manage deletion, updating, and insertion operations across multiple tables used in product.
+▪ Added an editing authorization to tables for some specific user.
+▪ Implementing validation for Release 3.1 in multiple state, including TX, VA, and ID using
+ASP.NET core, ADO.NET and SQL.
+▪ Examining and incorporating business requirements into the codebase while ensuring there
+are no effects on other business logic.
+▪ Testing the code using SpecFlow (Behavior-Driven Development (BDD) approach)
+considering all the possible scenario.
+▪ Collaborated within cross-functional Agile teams to iteratively develop and implement
+features, ensuring adaptability to evolving requirements.
+May 2022 - Nov 2022 Software Engineer Trainee Verisk Kathmandu (Nepal)
+▪ Learned about Froi/Sroi Report generation software product used in Insurance company.
+▪ Utilized Kanban frameworks, conducted sprint planning, and actively participated in daily
+stand-ups to streamline development processes and enhance team collaboration.
+▪ Created an .net web application for displaying the results of students through the login
+portal of student using ASP.NET Web Forms, HTML, CSS, and JavaScript.
+▪ Created .net application to read text file in specific format to get info about student and
+store into SQL Server using ADO.NET.
+Dec 2021 - Jan 2022 Software Engineer Intern Leapfrog Technology, Inc. Kathmandu (Nepal)
+▪ Pixel perfect design of web pages using HTML and CSS.
+▪ Prepared lo-fi, estimation, and a responsive design of TuTangle webpage from image
+template using Figma for slicing, HTML, CSS, and vanilla JavaScript for design
+implementation.
+▪ Developed a game of box collision and car game using ES6 JavaScript.
+▪ Developed a Bump Sheep Game using HTML, CSS, vanilla JavaScript, and canvas.
+▪ Link of projects done in intern: https://sagarshrestha12.github.io/lf_git2/
+         
+RELEVANT SKILLS
+ ▪ Computer skills: Coding Languages (ASP.NET, C, C++, JavaScript, Python), Angular, NgRX, HTML, CSS, bootstrap, REST API, TypeScript, Pentaho, Arduino, Raspberry pi, raspberry pi, Machine learning, Blockchain, Ether.js, solidity, GIT, React, Jira, SQL, UI Component (PrimeNG), SpecFlow
+▪ Professional/Social: Interpersonal-skills, Teamwork, Communication, Leadership, Organization, Problem-solving
+▪ Languages: English, Nepali, Newari, Hindi EDUCATION
+ 2019 - 2022
+2017-2019
+Bachelor in Electronics and Communication Engineering
+Learned C programming, Object-oriented Programming, Embedded System, Computer Architecture and organization, Discreate Mathematics, Big data, Machine learning,
+Deep Learning, AI, Blockchain, Digital Logic,
+Tribhuvan University
+Digital Signal Processing, Engineering Economics.
+HSEB (Computer Science) National Integrated College (Kathmandu , Country)
+PROFESSIONAL CERTIFICATIONS
+▪ SQL for Data Science:
+https://www.coursera.org/account/accomplishments/certificate/9D92TXV3FRRU
+▪ Git and GitHub: https://www.coursera.org/account/accomplishments/verify/X5ZRGFPZ6JNB
+▪ AI for Everyone: https://www.coursera.org/account/accomplishments/verify/CL2B6FEGMS6B
+▪ Deep Learning:
+https://www.coursera.org/account/accomplishments/specialization/AKNUCJMC3BK5
+▪ Blockchain based Fake Product Identification: Conference: 10th International Conference on Advanced Engineering and ICT-Convergence 2023 (ICAEIC-2023)
+▪ Software Engineer Internship: Certificate from Leapfrog Technology, Inc.
+    

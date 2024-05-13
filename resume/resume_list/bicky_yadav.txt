@@ -1,0 +1,56 @@
+ Yadavbicky026@gmail.com
++977 9815268366 Nepal,Kathmanndu Gwarko
+ Bicky Yadav
+LinkedIn: (27) Bicky Yadav | LinkedIn GitHub: bky-yadav (github.com)
+    AI and software enthusiast skilled in ML, DL, and full-stack development, blending innovation with
+ practical solutions.
+EDUCATION
+• High School
+Capital College and Research Center, Kathmandu, Nepal Grade:3.72/4
+• Bachelor in Computer Science and Engineering Manipal Institute of Technology, Bangalore, Karnataka, India. Semesters 1 to 3:
+CGPA: 9.94/10
+ACADEMIC ACHIEVEMENTS
+Awarded the COMPEX Scholarship by the Government of India for Academic Excellence
+• Attained top rank (within top 120) in the examination conducted by the Indian Embassy in Nepal for COMPEX scholarship eligibility.
+• Full coverage of tuition fees and hostel fees for Bachelor of Technology (B Tech) program in Computer Science and Engineering at Manipal Institute of Technology, Bangalore
+PROJECTS
+     Continuous Price Monitoring with Flask and Web Scraping
+ Developed a price monitoring system using Flask, a Python web framework, and web scraping techniques to track product prices on e-commerce websites like Amazon and Flipkart which also contains user authentication and session tracking. Implemented a user-friendly web interface allowing users to input products of interest and receive real-time updates on price fluctuations. Utilized customizable alerts to notify users of significant price changes via email
+ enhancing their ability to make informed purchasing decisions.
+ Key Technologies: Python, Flask, Requests, BeautifulSoup, SQLAlchemy, mysql, Flask_login
+ Project link: GitHubRepository
+  Alumni management using flask
+ The Alumni Network Platform is a Flask-based web application connecting graduates through an intuitive frontend interface. Powered by Flask and SQLite, it enables seamless data management and interaction, showcasing proficiency in web development and database
+ integration.
+ Key Technologies: Python, Flask, sqllite, mysql ,Html, CSS, Javascript
+ Project link
+:GitHub Repository
+Digit Recognition Using Artificial Neural Network
+Key Technologies Used:
+Project Link: GitHub Repository
+SKILLS
+• Python, NumPy, Pandas, Matplotlib, Scikit learn, TensorFlow, Keras,Flask
+• Machine Learning Algorithms
+• Deep Learning Algorithms
+• HTML, CSS
+• Data Structure and Algorithms
+• Data Base Management System (SQL)
+  Developed a digit recognition model using ANN in Python with TensorFlow and Keras.
+ Tailored architecture for MNIST dataset, conducted experiments for performance enhancement,
+ and implemented user-friendly inference interface on Google Colab.
+ Python, TensorFlow, Keras, Pandas, NumPy, Matplotlib
+  
+• Java (Object-Oriented Programming)
+• c programming
+• Git and GitHub
+PROFESSIONAL CERTIFICATION
+• Algorithmic Tools Algorithmic Toolbox
+• Python programming
+Python 3 programming specialization
+• Database management
+database structures and management with sql
+• OOP
+Introduction to Object-Oriented Programming with Java Object-Oriented Hierarchies in Java
+• Guided project
+Machine learning app using streamlit and python Python project: using pillow, tesseract and opencv
+         

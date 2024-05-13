@@ -1,0 +1,59 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+  body {
+    padding: 20px 15%;
+  }
+  form > div {
+    clear: both;
+    overflow: hidden;
+    padding: 1px;
+    margin: 0 0 10px 0;
+  }
+  form > div > fieldset > div > div {
+    margin: 0 0 5px 0;
+  }
+  form > div > label,
+  legend {
+      width: 30%;
+    float: left;
+    padding-right: 20px;
+  }
+  
+  input[type=text] {
+    width: 50%;
+  }
+  input[type=text]:focus {
+    outline: 0;
+    border-color: #4697e4;
+  }
+  
+  @media (max-width: 600px) {
+    form > div {
+      margin: 0 0 15px 0; 
+    }
+    form > div > label,
+    legend {
+        width: 100%;
+      float: none;
+      margin: 0 0 5px 0;
+    }
+    form > div > div,
+    form > div > fieldset > div {
+      width: 100%;
+      float: none;
+    }
+    input[type=text]
+    select {
+      width: 100%; 
+    }
+  }
+  @media (min-width: 1200px) {
+    form > div > label,
+      legend {
+        text-align: right;
+    }
+  }

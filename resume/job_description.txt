@@ -1,0 +1,13 @@
+This is an internship role for a React Native Intern at Lakir Technologies Private Limited. As a React Native Intern, you will be responsible for assisting in the development and maintenance of mobile applications using React Native framework. You will work closely with the development team to implement new features, debug issues, and optimize performance. This is an on-site role located in Bengaluru.
+ Qualifications
+ 
+Proficiency in React Native development
+Experience with JavaScript and related web technologies (HTML, CSS)
+Understanding of mobile app development best practices
+Knowledge of state management libraries (Redux, MobX)
+Familiarity with RESTful APIs and asynchronous programming
+Strong problem-solving and debugging skills
+Ability to work in a team environment and collaborate effectively
+Attention to detail and commitment to writing clean, maintainable code
+Prior experience with version control systems (Git)
+Pursuing a degree or diploma in Computer Science, Engineering, or related field

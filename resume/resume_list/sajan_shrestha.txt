@@ -1,0 +1,64 @@
+ sajanstha201.55@gmail.com +977 9841764339 Kageshowori Monahara, Kathmandu, Nepal
+  Sajan Shrestha
+LinkedIn: https://www.linkedin.com/in/sajan-shrestha-73388624b/ GitHub: https://github.com/sajanstha201
+   AI and software enthusiast skilled in ML, DL, and full-stack development, blending innovation with
+ practical solutions.
+PROJECTS
+Real-time Bitcoin Price Prediction: A Machine Learning Project with LSTM, Django, and React
+Key technologies Used: LSTM Neural Network, React, Django, RESTful API, External APIs(Yahoo Finance), SQL, Heroku, TensorFlow, Keras
+Project Link: GitHub Repository
+Live Website: GitHub Pages
+Titanic Event Disaster Machine Learning End to End Project
+Key Technologies Used: Python, Pandas, NumPy, scikit-learn, matplotlib, Django Project Link:GitHub Repository
+Live Website: Heroku
+RAHAT-MAHE University Mental Health Club Website
+Key Technologies Used: React.js, HTML5, CSS3, JavaScript Project Link:GitHub Repository
+Live Website: GitHub Pages
+Digit Recognition Using Convolutional Neural Network
+Developed a digit recognition model using CNN in Python with TensorFlow and Keras. Tailored architecture for MNIST dataset, conducted experiments for performance enhancement,
+Key Technologies Used:
+Key Contributions:
+Project Link: GitHub Repository
+Alien Fight 2D Game
+Developed a 2D browser-based game using Vanilla JavaScript, HTML, and CSS. The game features alien enemies, player controls, and interactive gameplay elements.
+Key Technologies Used: JavaScript, HTML5, CSS3
+Project Link:GitHub Repository
+Live Website: GitHub Pages
+  The website developed employs Django and React for predicting Bitcoin prices with LSTM Neural Network models. It integrates Yahoo Finance for data, deploys on Heroku, and boasts a robust React UI. Secure authentication is ensured through Django, utilizing SQL databases. The LSTM models provide accurate Bitcoin predictions, while automated scraping from Yahoo Finance ensures up-to-date data. This project showcases expertise in full-stack development,
+ machine learning, and financial analysis.
+   A Python machine learning project was developed to predict survival outcomes for Titanic passengers. It encompasses data pre-processing, exploratory data analysis (EDA), feature engineering, model selection, and evaluation. Five machine learning algorithms were explored, including logistic regression, decision trees, random forests, support vector machines (SVM), and Naive Bayes. Their performance was optimized through cross-validation and hyperparameter tuning. This project demonstrates expertise in data science, machine learning,
+ and predictive modelling techniques.
+   Developed a responsive website using React.js for RAHAT Mental Health Club. Gathered requirements, received feedback, and iterated on design/functionality. Includes mental health
+ resources and counsellor details, ensuring usability across devices
+    and implemented user-friendly inference interface on Google Colab.
+ Python, TensorFlow, Keras, Pandas, NumPy, Matplotlib
+   
+SKILLS
+• Python, NumPy, Pandas, Matplotlib, Scikit learn, TensorFlow, Keras
+• Machine Learning Algorithms
+• Deep Learning Algorithms (ANN, DNN, CNN, RNN, LSTM, GAN, Word2Vec)
+• Django
+• React.js, HTML, CSS, JavaScript
+• Data Structure and Algorithms
+• Data Base Management System (SQL)
+• Java (Object-Oriented Programming)
+• Git and GitHub
+PROFESSIONAL CERTIFICATION
+• Algorithmic Tools Algorithmic Toolbox
+• Machine Learning and Deep Learning
+Advanced Learning Algorithms
+Supervised Machine Learning: Regression and Classification
+• Git and Git hub
+Introduction to Git and GitHub
+• OOP
+Introduction to Object-Oriented Programming with Java Object-Oriented Hierarchies in Java
+EDUCATION
+• High School
+St. Lawrence Secondary School Kathmandu, Nepal Grade:3.88/4
+• Bachelor in Computer Science and Engineering Manipal Institute of Technology, Bangalore, Karnataka, India. Semesters 1 to 3:
+CGPA: 9.95/10
+ACADEMIC ACHIEVEMENTS
+Awarded the COMPEX Scholarship by the Government of India for Academic Excellence
+• Attained top rank (within top 120) in the examination conducted by the Indian Embassy in Nepal for COMPEX scholarship eligibility.
+• Full coverage of tuition fees and hostel fees for Bachelor of Technology (B Tech) program in Computer Science and Engineering at Manipal Institute of Technology, Bangalore
+            
