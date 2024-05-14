@@ -4,10 +4,19 @@ step 1:
 download this folder or clone this repo in your local host
 
 step 2:
-type 'pip install -r requirements.txt' in your terminal
+create a virtual environment in the folder that you have downloaded
+
+open terminal for same directory and type:
+
+'pip install virtualenv' for installing virtualenv
+
+'virtualenv myenv' for creating virtual environment in the directory
+
+for activating the virtualenv type
+'source myenv/bin/activate' for mac and 'myenv\Scripts\activate' for window
 
 step 3:
-type 'soruce my_env/bin/activate' in your terminal
+type 'pip install -r requirements.txt' in your terminal
 
 step 4:
 open 'app.py' file and run this file
